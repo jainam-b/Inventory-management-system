@@ -5,6 +5,7 @@
 .next
 /.pnp
 .pnp.js
+ignoreDeprecations": "5.0"
 
 # testing
 /coverage
